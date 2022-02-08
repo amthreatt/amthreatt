@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @amthreatt
-- 👀 I’m interested in ...learning new languages.
+- 👀 I’m interested in ...
 - 🌱 I’m currently learning ...Robotics
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... athreatt@oxy.edu
