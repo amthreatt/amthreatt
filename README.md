@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @amthreatt
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...Robotics
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in ... Computational Math, and Software Engineering
+- 🌱 I’m currently learning ...Algorithms and Analysis
 - 📫 How to reach me ... athreatt@oxy.edu
 
 <!---
